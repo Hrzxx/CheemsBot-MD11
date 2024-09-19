@@ -21,7 +21,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //new
 global.botname = 'Avishna Bot MD V11' //ur bot name
 global.ownernumber = '919207278115' //ur owner number
-global.ownername = 'ɪͥᴛͭ'sᷤ ᴍᷟᴇᷪ junaid' //ur owner name
+global.ownername = 'ɪͥᴛͭsᷤ ᴍᷟᴇᷪ junaid' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
 global.themeemoji = '🪀'
